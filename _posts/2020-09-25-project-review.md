@@ -23,6 +23,8 @@ The map is navigable and visually appealing even to someone with only modest kno
 
 The map is simply designed with practical features. An outline of the United States, along with the established states and territories, is presented for each ten year mark from 1790 to 1860. The slave counties are highlighted in colors that coordinate with the slave population of each area, distinguishable using the key. A drop-down menu allows the user to change the statistic displayed on the map, such as the enslaved population or the free population. Users can select a county (which also displays the statistics) to zoom into the county and the surrounding area. 
 
+![The Spread of U.S. Slavery, 1790-1860 Map](https://carolined350.github.io/carolined350/images/images/SlaveryMap.png)
+
 In naming a few particular strengths of the project, it effectively presents data for each county through the use of what I will refer to as hover boxes. A foggy transparent box, the transparency allowing users to view the entirety of the map while still distinguishing the information from the map visuals, appears when the user’s mouse hovers over a county. The box includes all the statistics for the specific county in both numerical fashion and percentages. While all the statistics are present, the statistics themselves hold little value to those outside of historical studies. 
 
 The capabilities of the map through transitions additionally contribute to its success. The user can manipulate the timeline lain underneath the map or the drop-down menu at any time and no matter the state of the map (zoomed in or out). This is particularly functional because historians can remain zoomed in on a county while changing the year or statistic in view. 
