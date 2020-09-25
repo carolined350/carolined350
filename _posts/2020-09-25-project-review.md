@@ -14,6 +14,7 @@ Lincoln Mullen
 
 Caroline Daniels
 
+# Project Review
 
 [*The Spread of U.S. Slavery, 1790-1860*](https://lincolnmullen.com/projects/slavery/) is a contribution to the study of history and digital humanities from [Lincoln Mullen](https://lincolnmullen.com), a professor of History at George Mason University. The project displays an interactive map of the enslaved population in the United States. It presents demographic information about the slave population, freed population, and total population in the nation over seven decades. 
 
