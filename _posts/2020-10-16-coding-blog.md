@@ -1,4 +1,5 @@
 # TEI Coding Reflection
+
 In this project, I created a digital edition of a passage from Charlotte Perkins Stetson’s [“The Yellow Wall-paper.”](https://www.nlm.nih.gov/exhibition/theliteratureofprescription/exhibitionAssets/digitalDocs/The-Yellow-Wall-Paper.pdf) The short story tells a tale about a middle aged woman in 1892 who experiences isolation and subordination from her husband because of mental health struggles. I coded a passage using XML (eXtensible Markup Language), and specifically TEI (Text Encoding Initiative). While this was my first experience using XML, the coding process proved relatively straightforward, especially with guidance from a pre-coding class exercise using Google Docs.
 
 This project was a collaboration between students studying Digital Humanities, so I focused my attention on a single passage from the story, rather than the entire piece. I coded the first column of page 649, in which the main character describes the boredom of her everyday activities. My passage contained features that are key to the coding process, such as em-dashes, italicized words, and part of a quote.
