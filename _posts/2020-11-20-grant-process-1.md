@@ -1,3 +1,4 @@
+
 # Grant Process Post 1
 
 While compiling the topic ideas, research, and written documents necessary for a grant proposal is in some ways challenging, establishing a plan for my own digital humanities (DH) project has been exciting. My plan has developed through the written abstract, collaboration with Dr. Stover, readings on successful DH projects and successful grant writing, research on DH mapping projects, and research on my topic. The combination of DH, an area new to me, and psychology, my area of study, drives my excitement for this project. My project abstract outlined my plan to create a travel map of William James, the Father of Psychology, visualizing the pattern in which the study of psychology spread. My research thus far has not so much changed my original vision presented in the abstract, but has expanded upon it.
